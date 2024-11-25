@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248883790746",
+    "project_id": "sankar-be028",
+    "storage_bucket": "sankar-be028.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248883790746:android:782af86f6c97159b96f023",
+        "android_client_info": {
+          "package_name": "com.example.otp_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc8I2-lL9acrNGRmSsT4GUadpBXOKouoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
